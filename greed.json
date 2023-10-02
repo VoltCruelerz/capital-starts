@@ -1,0 +1,11 @@
+{
+    "name": "Vasari Capital Starts",
+    "author": "Volt Cruelerz",
+    "url": "https://github.com/VoltCruelerz/capital-starts",
+    "description": "Adds 'factions' to the roster that let you start with the capitals other than the Evacuator.",
+    "version": "1.0.0",
+    "sinsVersion": "1.16.10.0",
+    "greedVersion": "2.0.0",
+    "dependencies": [],
+    "conflicts": []
+}

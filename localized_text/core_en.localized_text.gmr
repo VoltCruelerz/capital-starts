@@ -1,0 +1,11 @@
+{
+    "player_faction_name.vasari_rebel": "Rebels - Jarrasul",
+    "player_faction_name.vasari_rebel_battle": "Rebels - Kortul",
+    "player_faction_description.vasari_rebel_battle": "Start with the Kortul Devastator instead of the Jarrasul Evacuator colonizer.",
+    "player_faction_name.vasari_rebel_siege": "Rebels - Vulkoras",
+    "player_faction_description.vasari_rebel_siege": "Start with the Vulkoras Desolator instead of the Jarrasul Evacuator colonizer.",
+    "player_faction_name.vasari_rebel_carrier": "Rebels - Skirantra",
+    "player_faction_description.vasari_rebel_carrier": "Start with the Skirantra Carrier instead of the Jarrasul Evacuator colonizer.",
+    "player_faction_name.vasari_rebel_marauder": "Rebels - Antorak",
+    "player_faction_description.vasari_rebel_marauder": "Start with the Antorak Marauder instead of the Jarrasul Evacuator colonizer."
+}
