@@ -1,0 +1,43 @@
+{
+    "greed": {
+        "parent": "vasari_rebel"
+    },
+    "starting_units_in_hyperspace": {
+        "required_units": [
+            {
+                "unit": "vasari_carrier_capital_ship",
+                "options": {
+                    "is_temporary_ruler_ship": true,
+                    "items": [
+                        "vasari_rebel_exodus_package"
+                    ]
+                }
+            },
+            {
+                "unit": "vasari_light_frigate",
+                "count": [
+                    2,
+                    2
+                ]
+            },
+            {
+                "unit": "vasari_scout_corvette",
+                "count": [
+                    2,
+                    2
+                ]
+            },
+            {
+                "unit": "vasari_colony_cruiser",
+                "count": [
+                    1,
+                    1
+                ]
+            }
+        ]
+    },
+    "gui": {
+        "faction_name": "player_faction_name.vasari_rebel_carrier",
+        "faction_description": "player_faction_description.vasari_rebel_carrier"
+    }
+}
